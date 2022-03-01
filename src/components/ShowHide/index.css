@@ -1,0 +1,35 @@
+.app-container{
+    background-image:linear-gradient(to right,#fa7257,#fc63a7);
+    height:100vh;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+}
+.heading{
+    color:white;
+    font-size:40px;
+    font-weight:500;
+    font-style:Roboto;
+}
+.show-hide-container{
+    display:flex;
+    flex-direction:row;
+    padding:20px;
+    
+}
+.firstname{
+    margin:40px;
+}
+.name{
+    background-color:#fddddb;
+    height:80%;
+    border-radius:10px;
+    text-align:center;
+    padding-top:20px
+}
+.button{
+    color:pink;
+    background-color:white;
+    border-radius:10px;
+}
